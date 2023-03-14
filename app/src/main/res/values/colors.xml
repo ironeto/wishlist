@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_200">#ff0000</color>
+    <color name="red_500">#ff3232</color>
+    <color name="red_700">#990000</color>
+    <color name="blue_200">#69aadb</color>
+    <color name="blue_500">#2986cc</color>
+    <color name="blue_600">#103551</color>
+    <color name="blue_700">#081a28</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#982424</color>
+    <color name="google_blue">#4285F4</color>
+</resources>
